@@ -124,11 +124,11 @@ This table shows the final test accuracy for each SVM kernel evaluated.
 
 **1. Final Model Comparison (Bar Chart)**
 This graph provides a direct comparison of the final accuracy scores from all models.
-plots/compareall.png
+'plots/compareall.png'
 
 **2. CNN Model Training History (Loss)**
 This graph compares the training and validation loss for the CNN model.
-plots/improvedEfficientNet.png
+'plots/improvedEfficientNet.png'
 
 ---
 
